@@ -2,4 +2,7 @@
 mine little game, i maked a tamagotchi about snorlex. 
 you need to give snorlex food and drinks, otherwise snorlex wil die.
 and it has a score so you can still try and break your record!
-file:///C:/Users/youss/Recent/begin%20foto%20tamagotchi.lnk
+
+[begin foto tamagotchi.zip](https://github.com/Y189470/TamagotchiPokemon/files/11880793/begin.foto.tamagotchi.zip)
+
+
